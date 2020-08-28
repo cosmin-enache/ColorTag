@@ -22,7 +22,7 @@ To your desired **.rb** file
 
 This gem allows for the use of a simpler and more intuitive method of implementing ANSI escape sequences to color and format shell text.
 
-Sequences are in the format **\<xxx:TEXTHERE\>**, where `xxx` stands for special format characters. These sequences should come easily to anyone who is familiar with HTML.
+Sequences are in the format **\<xxx:TEXTHERE\>**, where `xxx` stands for special format characters. These sequences should come easily to anyone who is familiar with XML-style markup.
 
 ### Current Sequences:
 
